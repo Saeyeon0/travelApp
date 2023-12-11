@@ -1,8 +1,9 @@
 # Travel.kg
 ### [Техническое задание](https://docs.google.com/document/d/1JIFNdrXckDcXZgZag_6Jnpa9HNyb3pUUDs6Bt9iLPzM/edit)
-### [Figma]([https://docs.google.com/document/d/1JIFNdrXckDcXZgZag_6Jnpa9HNyb3pUUDs6Bt9iLPzM/edit](https://www.figma.com/file/PwWNcULhJ3D9BiuK1gQal0/travelWeb?type=design&node-id=0%3A1&mode=design&t=m0pJi4Epkk4V66Eb-1))
-*Travel.kg -  мобильное и веб-приложение для онлайн бронирования билетов и отелей в Кыргызстане.
-Приложение должно предоставлять пользователям возможность быстрого и надежного бронирования билетов и отелей, а также предоставлять информацию о различных местах в Кыргызстане*
+### [Figma]([https://docs.google.com/document/d/1JIFNdrXckDcXZgZag_6Jnpa9HNyb3pUUDs6Bt9iLPzM/edit](https://www.figma.com/file/PwWNcULhJ3D9BiuK1gQal0/travelWeb?type=design&nodeid=0%3A1&mode=design&t=m0pJi4Epkk4V66Eb1))
+
+# Travel.kg -  мобильное и веб-приложение для онлайн бронирования билетов и отелей в Кыргызстане.
+*Приложение должно предоставлять пользователям возможность быстрого и надежного бронирования билетов и отелей, а также предоставлять информацию о различных местах в Кыргызстане*
 
 ## Цель проекта
 *Разработка мобильного и веб-приложения для удобного бронирования билетов на транспорт и отелей в Кыргызстане.*
