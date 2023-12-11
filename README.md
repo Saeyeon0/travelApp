@@ -1,4 +1,4 @@
-# [TravelApp.kg]([http://example.com](https://docs.google.com/document/d/1JIFNdrXckDcXZgZag_6Jnpa9HNyb3pUUDs6Bt9iLPzM/edit)) in regular text.
+# [TravelApp.kg](https://docs.google.com/document/d/1JIFNdrXckDcXZgZag_6Jnpa9HNyb3pUUDs6Bt9iLPzM/edit).
 
 <span style="color:red">[Red Link text](http://example.com)</span> using HTML for color.
 
