@@ -1,8 +1,12 @@
 # Travel.kg
 ### [Техническое задание](https://docs.google.com/document/d/1JIFNdrXckDcXZgZag_6Jnpa9HNyb3pUUDs6Bt9iLPzM/edit)
 ### [Figma](https://www.figma.com/file/PwWNcULhJ3D9BiuK1gQal0/travelWeb?type=design&node-id=0%3A1&mode=design&t=m0pJi4Epkk4V66Eb-1)
+<img width="1440" alt="Screenshot 2023-12-13 at 22 53 24" src="https://github.com/Saeyeon0/travelApp/assets/100344816/eaa65a65-da6b-4ec8-99c3-6fce83217e33">
+<img width="1440" alt="Screenshot 2023-12-13 at 22 56 22" src="https://github.com/Saeyeon0/travelApp/assets/100344816/5dbfb32f-adef-4e96-bed0-310c8eba6f26">
+<img width="1440" alt="Screenshot 2023-12-13 at 22 53 35" src="https://github.com/Saeyeon0/travelApp/assets/100344816/02646c9d-b2a8-46a2-b619-f52b5f14a6ff">
+<img width="1440" alt="Screenshot 2023-12-13 at 22 53 43" src="https://github.com/Saeyeon0/travelApp/assets/100344816/0b7ef1cb-aaae-4ea8-9376-9d65d9e06db1">
+<img width="1440" alt="Screenshot 2023-12-13 at 22 53 51" src="https://github.com/Saeyeon0/travelApp/assets/100344816/9075208c-63eb-458d-badf-29f543191520">
 
-<img width="1440" alt="Screenshot 2023-12-11 at 16 42 57" src="https://github.com/Saeyeon0/travelApp/assets/100344816/4b406029-5ced-4ede-a9d0-590de53e7feb">
 
 # Travel.kg -  мобильное и веб-приложение для онлайн бронирования билетов и отелей в Кыргызстане.
 *Приложение должно предоставлять пользователям возможность быстрого и надежного бронирования билетов и отелей, а также предоставлять информацию о различных местах в Кыргызстане*
