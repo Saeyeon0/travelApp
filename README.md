@@ -7,6 +7,10 @@
 <img width="1440" alt="Screenshot 2023-12-13 at 22 53 43" src="https://github.com/Saeyeon0/travelApp/assets/100344816/0b7ef1cb-aaae-4ea8-9376-9d65d9e06db1">
 <img width="1440" alt="Screenshot 2023-12-13 at 22 53 51" src="https://github.com/Saeyeon0/travelApp/assets/100344816/9075208c-63eb-458d-badf-29f543191520">
 
+https://github.com/Saeyeon0/travelApp/assets/100344816/b18e175b-d344-4fe3-95b6-760f7ebf23d7
+
+![Screenshot 2023-12-13 at 4 12 59 PM](https://github.com/Saeyeon0/travelApp/assets/100344816/1bf08bcc-006c-410a-8dad-264d918a59b1)
+
 
 # Travel.kg -  мобильное и веб-приложение для онлайн бронирования билетов и отелей в Кыргызстане.
 *Приложение должно предоставлять пользователям возможность быстрого и надежного бронирования билетов и отелей, а также предоставлять информацию о различных местах в Кыргызстане*
