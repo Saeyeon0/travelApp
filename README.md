@@ -11,6 +11,10 @@ https://github.com/Saeyeon0/travelApp/assets/100344816/b18e175b-d344-4fe3-95b6-7
 
 ![Screenshot 2023-12-13 at 4 12 59 PM](https://github.com/Saeyeon0/travelApp/assets/100344816/1bf08bcc-006c-410a-8dad-264d918a59b1)
 
+![photo_2023-12-14 12 43 06](https://github.com/Saeyeon0/travelApp/assets/100344816/fbec4294-4ae7-410b-87cc-fc5b9055c268)
+
+![photo_2023-12-14 12 43 11](https://github.com/Saeyeon0/travelApp/assets/100344816/600e0fac-dca2-43e1-b0f5-89f66e471e57)
+
 
 # Travel.kg -  мобильное и веб-приложение для онлайн бронирования билетов и отелей в Кыргызстане.
 *Приложение должно предоставлять пользователям возможность быстрого и надежного бронирования билетов и отелей, а также предоставлять информацию о различных местах в Кыргызстане*
